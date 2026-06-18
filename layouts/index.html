@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="post-single">
+  <div class="post-content">
+    <p>{{ .Site.Params.description }}</p>
+    <nav>
+      <ul style="list-style:none; padding:0; margin-top:2rem;">
+        {{ range .Site.Menus.main }}
+        <li style="margin-bottom:0.5rem;">
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
+</article>
+{{ end }}

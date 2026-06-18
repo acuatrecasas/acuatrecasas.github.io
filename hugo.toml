@@ -1,0 +1,35 @@
+baseURL = "https://acuatre.com/"
+defaultContentLanguage = "en"
+title = "Alejandro W. Cuatrecasas Schmitz"
+theme = "paper"
+enableEmoji = false
+
+[params]
+  author = "Alejandro W. Cuatrecasas Schmitz"
+  description = "Thoughts on clarity, simplicity, curiosity, and being a good human."
+  monoDarkIcon = true
+  readMore = false
+  toc = false
+
+[taxonomies]
+  tag = "tags"
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menus.main]]
+  name = "Thoughts"
+  url = "/thoughts/"
+  weight = 2
+
+[[menus.main]]
+  name = "Good stuff"
+  url = "/good-stuff/"
+  weight = 3
+
+[[menus.main]]
+  name = "Questions"
+  url = "/questions/"
+  weight = 4
