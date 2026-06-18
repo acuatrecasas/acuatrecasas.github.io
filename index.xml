@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Alejandro W. Cuatrecasas Schmitz</title>
+		<link>http://localhost:60127/</link>
+		<description>Recent content on Alejandro W. Cuatrecasas Schmitz</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:60127/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>http://localhost:60127/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:60127/about/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m relentlessly curious — from first principles to the questions that keep me up at night. Obsessed with spending time on what matters. I chase happiness, and try to bring it to others.&lt;/p&gt;&#xA;&lt;p&gt;I often think about the infinity of the universe and the tininess of our presence in it. One person, one planet, one universe — too small to fail.&lt;/p&gt;&#xA;&lt;p&gt;I believe in clear goals. In simplicity as a form of excellence. And in being a good person as a non-negotiable.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Good stuff</title>
+				<link>http://localhost:60127/good-stuff/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:60127/good-stuff/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Work in progress — a living list of things worth your time.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Questions</title>
+				<link>http://localhost:60127/questions/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:60127/questions/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Work in progress — things I keep asking myself.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
