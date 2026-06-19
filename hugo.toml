@@ -33,3 +33,4 @@ enableEmoji = false
   name = "Questions"
   url = "/questions/"
   weight = 4
+publishDir = "docs"
