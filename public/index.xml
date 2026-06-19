@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Alejandro W. Cuatrecasas Schmitz</title>
-		<link>http://localhost:1313/</link>
+		<link>https://acuatre.com/</link>
 		<description>Recent content on Alejandro W. Cuatrecasas Schmitz</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://acuatre.com/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Too small to fail</title>
-				<link>http://localhost:1313/thoughts/too-small-to-fail/</link>
+				<link>https://acuatre.com/thoughts/too-small-to-fail/</link>
 				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/thoughts/too-small-to-fail/</guid>
+				<guid>https://acuatre.com/thoughts/too-small-to-fail/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>About</title>
-				<link>http://localhost:1313/about/</link>
+				<link>https://acuatre.com/about/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/about/</guid>
+				<guid>https://acuatre.com/about/</guid>
 				<description>&lt;p&gt;I&amp;rsquo;m relentlessly curious — from science to the meaning of life. Obsessed with spending time on what matters. I chase happiness, and try to bring it to others.&lt;/p&gt;&#xA;&lt;p&gt;I often think about the infinity of the universe and the tininess of our presence in it. It keeps things in perspective.&lt;/p&gt;&#xA;&lt;p&gt;I believe in having clear goals. In simplicity as a form of excellence. And in being a good person as a non-negotiable.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Good stuff</title>
-				<link>http://localhost:1313/good-stuff/</link>
+				<link>https://acuatre.com/good-stuff/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/good-stuff/</guid>
+				<guid>https://acuatre.com/good-stuff/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Work in progress — a living list of things worth your time.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Questions</title>
-				<link>http://localhost:1313/questions/</link>
+				<link>https://acuatre.com/questions/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/questions/</guid>
+				<guid>https://acuatre.com/questions/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Work in progress — things I keep asking myself.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>

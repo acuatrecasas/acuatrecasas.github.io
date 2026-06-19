@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Thoughts on Alejandro W. Cuatrecasas Schmitz</title>
-		<link>http://localhost:1313/thoughts/</link>
+		<link>https://acuatre.com/thoughts/</link>
 		<description>Recent content in Thoughts on Alejandro W. Cuatrecasas Schmitz</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/thoughts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://acuatre.com/thoughts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Too small to fail</title>
-				<link>http://localhost:1313/thoughts/too-small-to-fail/</link>
+				<link>https://acuatre.com/thoughts/too-small-to-fail/</link>
 				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/thoughts/too-small-to-fail/</guid>
+				<guid>https://acuatre.com/thoughts/too-small-to-fail/</guid>
 				<description></description>
 			</item>
 	</channel>
