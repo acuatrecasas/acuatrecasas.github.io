@@ -7,7 +7,7 @@ publishDir = "docs"
 
 [params]
   author = "Alejandro W. Cuatrecasas Schmitz"
-  description = "Thoughts on clarity, simplicity, curiosity, and being a good human."
+  description = "This is my space to write about what I think, what I learn, what I question, and what matters to me."
   monoDarkIcon = true
   readMore = false
   toc = false
