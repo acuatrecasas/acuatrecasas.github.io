@@ -3,6 +3,7 @@ defaultContentLanguage = "en"
 title = "Alejandro W. Cuatrecasas Schmitz"
 theme = "paper"
 enableEmoji = false
+publishDir = "docs"
 
 [params]
   author = "Alejandro W. Cuatrecasas Schmitz"
@@ -33,4 +34,3 @@ enableEmoji = false
   name = "Questions"
   url = "/questions/"
   weight = 4
-publishDir = "docs"
