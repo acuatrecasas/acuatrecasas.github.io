@@ -10,5 +10,3 @@ I often think about the infinity of the universe and the tininess of our presenc
 I believe in having clear goals. In simplicity as a form of excellence. And in being a good person as a non-negotiable.
 
 Raised in Barcelona. Living in North Carolina.
-
-This is my space to write about what I think, what I learn, what I question, and what matters to me.
