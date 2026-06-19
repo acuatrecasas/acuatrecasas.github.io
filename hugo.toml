@@ -6,6 +6,7 @@ enableEmoji = false
 publishDir = "docs"
 
 [params]
+  favicon = "favicon.svg"
   author = "Alejandro W. Cuatrecasas Schmitz"
   description = "Thoughts on clarity, simplicity, curiosity, and being a good human."
   monoDarkIcon = true
@@ -34,3 +35,7 @@ publishDir = "docs"
   name = "Questions"
   url = "/questions/"
   weight = 4
+
+[params]
+  favicon = "favicon.svg"
+  favicon = "favicon.svg"
