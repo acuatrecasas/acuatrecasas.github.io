@@ -1,6 +1,6 @@
 +++
 title = "Too Small To Fail"
-date = 2026-06-19
+date = 2026-06-23
 draft = false
 +++
 
