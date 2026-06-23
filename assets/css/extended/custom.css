@@ -1,0 +1,13 @@
+.post-content {
+  font-family: Georgia, Charter, "Times New Roman", serif;
+  line-height: 1.75;
+  font-size: 1.05rem;
+}
+
+.post-content p {
+  margin-bottom: 1.4rem;
+}
+
+article, .post-single {
+  max-width: 650px;
+}
