@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Alejandro W. Cuatrecasas Schmitz</title>
-		<link>https://acuatre.com/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content on Alejandro W. Cuatrecasas Schmitz</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://acuatre.com/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Too Small To Fail</title>
-				<link>https://acuatre.com/thoughts/too-small-to-fail/</link>
+				<link>http://localhost:1313/thoughts/too-small-to-fail/</link>
 				<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://acuatre.com/thoughts/too-small-to-fail/</guid>
+				<guid>http://localhost:1313/thoughts/too-small-to-fail/</guid>
 				<description>&lt;p&gt;The second day my wife and I arrived in Raleigh, we saw it painted on a wall. Four words. We stopped. We looked at each other. We didn&amp;rsquo;t need to say anything.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Too small to fail.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been carrying those words since. This is my attempt to explain why.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;BTW — I&amp;rsquo;m writing here for the same reason I do most things: I need structure to understand, and I need to understand to remember. This is my corner — outside my head — to shape thoughts, ask questions, and share things worth the time.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>About</title>
-				<link>https://acuatre.com/about/</link>
+				<link>http://localhost:1313/about/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://acuatre.com/about/</guid>
+				<guid>http://localhost:1313/about/</guid>
 				<description>&lt;p&gt;I&amp;rsquo;m curious by nature. I like understanding things deeply, and I think the world runs on a few simple ideas repeating themselves — in science, in art, in people, and in everyday life.&lt;/p&gt;&#xA;&lt;p&gt;Having clear goals helps me turn noise into direction. I believe in simplicity as a form of excellence. And in doing the small things well.&lt;/p&gt;&#xA;&lt;p&gt;I care a lot about happiness, about spending time on what matters, and about leaving people a little better than I found them.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Good stuff</title>
-				<link>https://acuatre.com/good-stuff/</link>
+				<link>http://localhost:1313/good-stuff/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://acuatre.com/good-stuff/</guid>
+				<guid>http://localhost:1313/good-stuff/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Work in progress — a living list of things worth your time.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Questions</title>
-				<link>https://acuatre.com/questions/</link>
+				<link>http://localhost:1313/questions/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://acuatre.com/questions/</guid>
+				<guid>http://localhost:1313/questions/</guid>
 				<description>&lt;p&gt;&lt;em&gt;Work in progress — things I keep asking myself.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
